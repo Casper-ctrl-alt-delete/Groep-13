@@ -47,15 +47,16 @@ project:
 
     - title: Labs
       file: Content/Labs/uitleg.md
-      # children:
+      children:
         
-      # - title: Soortelijke warmte
-      #   children:
-      #     - file: Content/Labs/cwater.ipynb
-      #     - file: Content/Labs/Verdamping.ipynb        
-      #     - file: Content/Labs/Warmtecapaciteit.ipynb
+       - title: Soortelijke warmte
+         children:
+           - file: Content/Labs/koelende_buizen.ipynb
+           - file: Content/Labs/Verdamping.ipynb        
+           - file: Content/Labs/bepaling_warmtecapaciteit_water.ipynb
+           - file: Content/Labs/bepaling_soortelijke_warmte_onbekend_materiaal.ipynb
 
-      # - title: Druk
-      #   children:
-      #     - file: Content/Labs/druksensorijken.ipynb
+       - title: Druk
+         children:
+           - file: Content/Labs/druksensorijken.ipynb
       #     - file: Content/Labs/pV_diagram.ipynb
