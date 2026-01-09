@@ -55,6 +55,7 @@ project:
            - file: Content/Labs/Verdamping.ipynb        
            - file: Content/Labs/bepaling_warmtecapaciteit_water.ipynb
            - file: Content/Labs/bepaling_soortelijke_warmte_onbekend_materiaal.ipynb
+           - file: Content/Labs/ballonproef.ipynb
 
        - title: Druk
          children:
